@@ -71,6 +71,7 @@ const supportedLocalesList = [
   Locale('zh', ''), // Chinese, simplified
   Locale('zh', 'TW'), // Chinese, taiwan (traditional)
   Locale('zh', 'HK'), // Chinese, hongkong (traditional)
+  Locale('fr', ''), // French, no country code
 ];
 
 String currentVersion = "1.0.0";

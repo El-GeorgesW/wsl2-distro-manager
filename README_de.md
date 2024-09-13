@@ -8,7 +8,7 @@
 [![Discord](https://img.shields.io/discord/1100070299308937287?style=for-the-badge)](https://discord.gg/fY5uE5WRTP)
 
 <p align='center'>
-    <a href='./README.md'>English</a> | <a href='./README_zh.md'>简体中文</a> | Deutsch | <a href='./README_es.md'>Español</a>
+    <a href='./README.md'>English</a> | <a href='./README_zh.md'>简体中文</a> | Deutsch | <a href='./README_es.md'>Español | <a href='./README_fr.md'>Français</a>
 </p>
 
 ![Screenshot with Darkmode](https://user-images.githubusercontent.com/7342321/233077564-794d15dd-d8d6-48b2-aee6-20e67de3da29.png)

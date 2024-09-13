@@ -117,6 +117,8 @@ class WSLManager extends StatelessWidget {
               language = selectedLang;
               if (language == "zh") {
                 return const Locale('zh', 'CN');
+              } else if (language == "fr") {
+                return const Locale('fr', '');
               }
               return Locale(selectedLang);
             }
@@ -137,6 +139,11 @@ class WSLManager extends StatelessWidget {
               return const Locale('zh', 'TW');
             } else if (locale.languageCode == "zh") {
               return const Locale('zh', 'CN');
+            }
+
+            // Custom matching for French
+            if (locale.languageCode == "fr") {
+              return const Locale('fr', '');
             }
 
             // No exact match, try language only

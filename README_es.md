@@ -9,7 +9,7 @@
 
 
 <p align='center'>
-    <a href='./README.md'>English</a> | <a href='./README_zh.md'>简体中文</a> | <a href='./README_de.md'>Deutsch</a> | Español
+    <a href='./README.md'>English</a> | <a href='./README_zh.md'>简体中文</a> | <a href='./README_de.md'>Deutsch</a> | Español | <a href='./README_fr.md'>Français
 </p>
 
 ![Captura de pantalla con Modo Oscuro](https://user-images.githubusercontent.com/7342321/233077564-794d15dd-d8d6-48b2-aee6-20e67de3da29.png)
